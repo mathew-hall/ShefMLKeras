@@ -1,0 +1,14 @@
+jupyter
+numpy
+scipy
+theano
+keras
+pandas
+Pillow
+opencv-python
+scikit-learn
+bcolz
+jupyter
+matplotlib
+h5py
+sympy

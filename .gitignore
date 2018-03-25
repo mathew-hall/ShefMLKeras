@@ -1,0 +1,7 @@
+bin
+etc
+include
+lib
+pyvenv.cfg
+pip-selfcheck.json
+share
