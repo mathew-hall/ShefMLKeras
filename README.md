@@ -25,3 +25,11 @@ If you prefer not to use the bundled scripts, you'll need to [set the Keras back
 ## Azure
 
 Azure Notebooks are a free alternative to setting up your own environment. If you head to the [Azure Notebook Library](https://notebooks.azure.com/anon-pu0iva/libraries/shefmlkeras) for the workshop you can run the notebook there.
+
+# TODOs
+
+This is still a work in progress. If you want to prep for the workshop, you may want to wait until the answers are hidden.
+
+* Transfer learning task
+* Hide answers
+* Deep Dream
