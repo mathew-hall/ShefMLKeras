@@ -12,3 +12,4 @@ jupyter
 matplotlib
 h5py
 sympy
+requests
